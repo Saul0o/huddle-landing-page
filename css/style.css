@@ -5,7 +5,7 @@ body{
 */
 
 .bodyDiv{
-  /*background-image:url("bg-desktop.svg");*/
+  background-image:url(bg-desktop.svg);
   background-color: #674BAF;
 }
 
